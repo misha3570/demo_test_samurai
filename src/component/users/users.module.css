@@ -1,0 +1,12 @@
+.buttonFollow {
+    background-color: green;
+}
+
+.buttonUnfollow {
+    background-color: gold;
+}
+
+.active {
+    padding: 0 5px;
+    font-weight: bold;
+}
